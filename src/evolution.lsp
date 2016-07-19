@@ -1,3 +1,6 @@
+;;; Testing framework:
+(load "lisp-unit.lisp")
+
 ;;;; Simulated Evolution
 
 ;;; Topology
